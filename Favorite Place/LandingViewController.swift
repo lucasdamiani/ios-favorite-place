@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class LandingViewController: UIViewController {
 
     @IBOutlet weak var findOutMoreButton: UIButton!
     
