@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FE0E87141BF64E5F00F4EE02 /* AboutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE0E87131BF64E5F00F4EE02 /* AboutViewController.swift */; };
 		FE0F3C1B1BF52A130014CCB8 /* ScrollableImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE0F3C1A1BF52A130014CCB8 /* ScrollableImageView.swift */; };
 		FEF317791BF16FBA008A0A4B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEF317781BF16FBA008A0A4B /* AppDelegate.swift */; };
 		FEF3177B1BF16FBA008A0A4B /* LandingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEF3177A1BF16FBA008A0A4B /* LandingViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FE0E87131BF64E5F00F4EE02 /* AboutViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AboutViewController.swift; sourceTree = "<group>"; };
 		FE0F3C1A1BF52A130014CCB8 /* ScrollableImageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScrollableImageView.swift; sourceTree = "<group>"; };
 		FEF317751BF16FBA008A0A4B /* Favorite Place.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Favorite Place.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FEF317781BF16FBA008A0A4B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -82,6 +84,7 @@
 			children = (
 				FEF3177A1BF16FBA008A0A4B /* LandingViewController.swift */,
 				FEF86D041BF3D8D600541099 /* PhotoViewController.swift */,
+				FE0E87131BF64E5F00F4EE02 /* AboutViewController.swift */,
 			);
 			name = Controller;
 			sourceTree = "<group>";
@@ -161,6 +164,7 @@
 				FEF3177B1BF16FBA008A0A4B /* LandingViewController.swift in Sources */,
 				FE0F3C1B1BF52A130014CCB8 /* ScrollableImageView.swift in Sources */,
 				FEF317791BF16FBA008A0A4B /* AppDelegate.swift in Sources */,
+				FE0E87141BF64E5F00F4EE02 /* AboutViewController.swift in Sources */,
 				FEF86D051BF3D8D600541099 /* PhotoViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
